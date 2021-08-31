@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="492" height="495.082" viewBox="0 0 492 495.082">
+  <g id="Group_517" data-name="Group 517" transform="translate(-93 -1700)">
+    <text id="_0_" data-name="0%" transform="translate(204.156 2189.082)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-9.751" y="0">0%</tspan></text>
+    <path id="Path_4042" data-name="Path 4042" d="M0,456.57V0" transform="translate(204.156 1713.004)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <line id="Line_173" data-name="Line 173" y1="456.57" transform="translate(293.587 1713.004)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <line id="Line_170" data-name="Line 170" y1="456.57" transform="translate(387.642 1713.004)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <line id="Line_167" data-name="Line 167" y1="456.57" transform="translate(481.698 1713.004)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <line id="Line_169" data-name="Line 169" y1="456.57" transform="translate(569.157 1713.004)" fill="none" stroke="#e9e9e9" stroke-width="1"/>
+    <g id="Group_513" data-name="Group 513" transform="translate(0 -0.309)">
+      <text id="Process" transform="translate(193.156 1724.309)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-57.89" y="0">PROCESS</tspan></text>
+      <rect id="Rectangle_12895" data-name="Rectangle 12895" width="38" height="38" transform="translate(204.156 1738.309) rotate(-90)" fill="#ee4443"/>
+    </g>
+    <g id="Group_512" data-name="Group 512" transform="translate(0 7.691)">
+      <text id="optimism" transform="translate(193.156 1792.309)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-63.49" y="0">OPTIMISM</tspan></text>
+      <rect id="Rectangle_12896" data-name="Rectangle 12896" width="38" height="135.346" transform="translate(204.156 1806.309) rotate(-90)" fill="#ec8a3f"/>
+    </g>
+    <g id="Group_511" data-name="Group 511" transform="translate(0 15.691)">
+      <text id="Pragmatism" transform="translate(193.156 1860.309)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-82.194" y="0">PRAGMATISM</tspan></text>
+      <rect id="Rectangle_12897" data-name="Rectangle 12897" width="38" height="183.486" transform="translate(204.156 1874.309) rotate(-90)" fill="#e4be45"/>
+    </g>
+    <g id="Group_510" data-name="Group 510" transform="translate(0 23.691)">
+      <text id="innovation" transform="translate(193.156 1928.309)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-78.106" y="0">INNOVATION</tspan></text>
+      <rect id="Rectangle_12898" data-name="Rectangle 12898" width="38" height="183.711" transform="translate(204.156 1942.309) rotate(-90)" fill="#37a28a"/>
+    </g>
+    <g id="Group_509" data-name="Group 509" transform="translate(-0.156 31.691)">
+      <text id="relationships" transform="translate(193.156 1996.309)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-99.26" y="0">RELATIONSHIPS</tspan></text>
+      <rect id="Rectangle_12899" data-name="Rectangle 12899" width="38" height="229.532" transform="translate(204.156 2010.309) rotate(-90)" fill="#8cacd1"/>
+    </g>
+    <g id="Group_508" data-name="Group 508" transform="translate(0 39.691)">
+      <text id="results" transform="translate(193.156 2064.309)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-54.432" y="0">RESULTS</tspan></text>
+      <rect id="Rectangle_12900" data-name="Rectangle 12900" width="38" height="277.542" transform="translate(204.156 2078.309) rotate(-90)" fill="#273f8f"/>
+    </g>
+    <text id="_25_" data-name="25%" transform="translate(296.642 2189.082)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-13.475" y="0">25%</tspan></text>
+    <text id="_50_" data-name="50%" transform="translate(387.867 2189.082)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-13.475" y="0">50%</tspan></text>
+    <text id="_75_" data-name="75%" transform="translate(478.914 2189.082)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-13.475" y="0">75%</tspan></text>
+    <text id="_100_" data-name="100%" transform="translate(567 2189.082)" fill="#1b1c2b" font-size="14" font-family="SourceSansPro-Bold, Source Sans Pro" font-weight="700"><tspan x="-17.199" y="0">100%</tspan></text>
+  </g>
+</svg>
