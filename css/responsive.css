@@ -3,38 +3,30 @@
 Medium Screen - Others
 ====================================
 */
+
+@media screen and (min-width: 1200px) and (max-width: 1400px) {
+  .graph-one-left-middle img {
+    margin: 35px auto;
+  }
+}
+
 @media screen and (min-width: 992px) and (max-width: 1200px) {
+  .edit-left {
+    padding-left: 60px;
+  }
 
+  .graph-one-left-middle img {
+    width: 140px;
+    margin: 20px auto;
+  }
 
+  .grap-one-right-top-custom img {
+    width: 215px !important;
+  }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  .edit-content-positon {
+    padding: 0px 247px;
+  }
 }
 
 /*
@@ -43,36 +35,179 @@ Small Screen - Tablate
 ====================================
 */
 @media screen and (min-width: 768px) and (max-width: 991px) {
+  .logo {
+    text-align: center;
+  }
 
+  .logo a img {
+    display: inline-block;
+    width: 160px;
+  }
 
+  .team {
+    width: 150px;
+    height: 85px;
+    position: fixed;
+    top: inherit;
+    bottom: 0;
+    right: 28%;
+    overflow: hidden;
+    cursor: pointer;
+  }
 
+  .team-main {
+    transform: rotate(0deg);
+  }
 
+  .header-team h3 {
+    margin-bottom: 0;
+    font-size: 28px;
+  }
 
+  .header-team span {
+    margin: 12px auto;
+  }
 
+  .header-block-one-right {
+    display: none;
+  }
 
+  .header-block {
+    border: 0;
+  }
 
+  .header-block-wrapper {
+    bottom: 90px;
+  }
 
+  .edit-wrapper {
+    background: none;
+    padding: 0;
+  }
 
+  .edit-content-positon {
+    width: 100%;
+    padding: 0;
+  }
 
+  .edit-content {
+    width: 100%;
+  }
 
+  .edit-right img {
+    display: block;
+    width: 160px;
+    margin-top: 35px;
+  }
 
+  .result,
+  .graph-one-content {
+    padding: 5px;
+  }
 
+  .result-left table tr td#left-td {
+    width: 100px;
+    font-size: 13px;
+  }
 
+  .result-left table tr td#right-td {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
 
+  .result-left table tr td#right-td p {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
 
+  .role-wrapper {
+    margin: 20px 0px;
+  }
+  .role-one-heading h4 {
+    font-size: 16px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #a5a5a5;
+  }
 
+  .role-one-line ul li {
+    font-size: 17px;
+    margin-top: 2px;
+  }
 
+  .role-one-line {
+    margin-top: 4px;
+    margin-bottom: 22px;
+  }
 
+  .role-heading h2 {
+    font-size: 22px;
+  }
 
+  .result-heading h3 {
+    font-size: 22px;
+  }
 
+  .result-right {
+    padding-left: 0px;
+    margin-bottom: 25px;
+  }
 
+  .colorful-left span {
+    font-size: 70px;
+  }
 
+  .colorful-left p {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 34px;
+  }
 
+  .at-heading h3 {
+    font-size: 22px;
+  }
 
+  .at-list ul li {
+    font-size: 17px;
+  }
 
+  .team-menu {
+    width: 100%;
+    padding: 15px;
+  }
 
+  .team-member-heading h4 {
+    font-size: 22px;
+    margin: 8px 0px;
+  }
 
+  .team-list-items ul li p span {
+    display: inline-block;
+    font-size: 18px;
+  }
 
+  .graph-one-sm-top-right img {
+    display: block;
+    width: 100px;
+  }
+
+  .graph-one-sm-middle-right img {
+    margin: auto;
+    width: 450px;
+  }
+
+  .graph-one-sm-middle-right {
+    width: 100%;
+  }
+
+  .result-right img {
+    width: 448px;
+    margin: auto;
+  }
+
+  .colorful-right img {
+    width: 50%;
+    margin: auto;
+  }
 }
 
 /*
@@ -80,34 +215,176 @@ Small Screen - Tablate
 Small Screen - Mobile
 ====================================
 */
-@media screen and (min-width: 576px) and (max-width: 767px) {	
+@media screen and (min-width: 576px) and (max-width: 767px) {
+  .logo {
+    text-align: center;
+  }
 
+  .logo a img {
+    display: inline-block;
+    width: 160px;
+  }
 
+  .team {
+    width: 150px;
+    height: 85px;
+    position: fixed;
+    top: inherit;
+    bottom: 0;
+    right: 38%;
+    overflow: hidden;
+    cursor: pointer;
+  }
 
+  .team-main {
+    transform: rotate(0deg);
+  }
 
+  .header-team h3 {
+    margin-bottom: 0;
+    font-size: 28px;
+  }
 
+  .header-team span {
+    margin: 12px auto;
+  }
 
+  .header-block-one-right {
+    display: none;
+  }
 
+  .header-block {
+    border: 0;
+  }
 
+  .header-block-wrapper {
+    bottom: 90px;
+  }
 
+  .edit-wrapper {
+    background: none;
+    padding: 0;
+  }
 
+  .edit-content-positon {
+    width: 100%;
+    padding: 0;
+  }
 
+  .edit-content {
+    width: 100%;
+  }
 
+  .edit-right img {
+    display: block;
+    width: 160px;
+    margin-top: 35px;
+  }
 
+  .result,
+  .graph-one-content {
+    padding: 5px;
+  }
 
+  .result-left table tr td#left-td {
+    width: 100px;
+    font-size: 13px;
+  }
 
+  .result-left table tr td#right-td {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
 
+  .result-left table tr td#right-td p {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
 
+  .role-wrapper {
+    margin: 20px 0px;
+  }
+  .role-one-heading h4 {
+    font-size: 16px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #a5a5a5;
+  }
 
+  .role-one-line ul li {
+    font-size: 17px;
+    margin-top: 2px;
+  }
 
+  .role-one-line {
+    margin-top: 4px;
+    margin-bottom: 22px;
+  }
 
+  .role-heading h2 {
+    font-size: 22px;
+  }
 
+  .result-heading h3 {
+    font-size: 22px;
+  }
 
+  .result-right {
+    padding-left: 0px;
+    margin-bottom: 25px;
+  }
 
+  .colorful-left span {
+    font-size: 70px;
+  }
 
+  .colorful-left p {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 34px;
+  }
 
+  .at-heading h3 {
+    font-size: 22px;
+  }
 
+  .at-list ul li {
+    font-size: 17px;
+  }
 
+  .team-menu {
+    width: 100%;
+    padding: 15px;
+  }
+
+  .team-member-heading h4 {
+    font-size: 22px;
+    margin: 8px 0px;
+  }
+
+  .team-list-items ul li p span {
+    display: inline-block;
+    font-size: 18px;
+  }
+
+  .graph-one-sm-top-right img {
+    display: block;
+    width: 100px;
+  }
+
+  .graph-one-sm-middle-right img {
+    width: 350px;
+    margin: auto;
+  }
+
+  .graph-one-sm-middle-right {
+    width: 100%;
+  }
+
+  .result-right img {
+    display: block;
+    width: 60%;
+    margin: auto;
+  }
 }
 
 /*
@@ -116,34 +393,153 @@ Xtra Small Screen - Small Mobile
 ====================================
 */
 @media screen and (max-width: 576px) {
+  .logo {
+    text-align: center;
+  }
 
+  .logo a img {
+    display: inline-block;
+    width: 160px;
+  }
 
+  .team {
+    width: 150px;
+    height: 85px;
+    position: fixed;
+    top: inherit;
+    bottom: 0;
+    right: 28%;
+    overflow: hidden;
+    cursor: pointer;
+  }
 
+  .team-main {
+    transform: rotate(0deg);
+  }
 
+  .header-team h3 {
+    margin-bottom: 0;
+    font-size: 28px;
+  }
 
+  .header-team span {
+    margin: 12px auto;
+  }
 
+  .header-block-one-right {
+    display: none;
+  }
 
+  .header-block {
+    border: 0;
+  }
 
+  .header-block-wrapper {
+    bottom: 90px;
+  }
 
+  .edit-wrapper {
+    background: none;
+    padding: 0;
+  }
 
+  .edit-content-positon {
+    width: 100%;
+    padding: 0;
+  }
 
+  .edit-content {
+    width: 100%;
+  }
 
+  .edit-right img {
+    display: block;
+    width: 160px;
+    margin-top: 35px;
+  }
 
+  .result,
+  .graph-one-content {
+    padding: 5px;
+  }
 
+  .result-left table tr td#left-td {
+    width: 100px;
+    font-size: 13px;
+  }
 
+  .result-left table tr td#right-td {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
 
+  .result-left table tr td#right-td p {
+    margin-bottom: 0;
+    font-size: 12px;
+  }
 
+  .role-wrapper {
+    margin: 20px 0px;
+  }
+  .role-one-heading h4 {
+    font-size: 16px;
+    padding-bottom: 3px;
+    border-bottom: 2px solid #a5a5a5;
+  }
 
+  .role-one-line ul li {
+    font-size: 17px;
+    margin-top: 2px;
+  }
 
+  .role-one-line {
+    margin-top: 4px;
+    margin-bottom: 22px;
+  }
 
+  .role-heading h2 {
+    font-size: 22px;
+  }
 
+  .result-heading h3 {
+    font-size: 22px;
+  }
 
+  .result-right {
+    padding-left: 0px;
+    margin-bottom: 25px;
+  }
 
+  .colorful-left span {
+    font-size: 70px;
+  }
 
+  .colorful-left p {
+    width: 100%;
+    max-width: 100%;
+    margin-bottom: 34px;
+  }
 
+  .at-heading h3 {
+    font-size: 22px;
+  }
 
+  .at-list ul li {
+    font-size: 17px;
+  }
 
+  .team-menu {
+    width: 100%;
+    padding: 15px;
+  }
 
+  .team-member-heading h4 {
+    font-size: 22px;
+    margin: 8px 0px;
+  }
 
-
+  .team-list-items ul li p span {
+    display: inline-block;
+    font-size: 18px;
+  }
 }
